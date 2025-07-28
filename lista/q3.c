@@ -1,5 +1,5 @@
 
-"Entrada
+/*Entrada
  A primeira linha da entrada contém um número inteiro P que corresponde ao valor do produto da
  máquina em ienes. A segunda linha da entrada contém um valor inteiro V que corresponde ao valor
  que a pessoa inseriu na máquina em ienes.
@@ -12,9 +12,9 @@
  "de Y500; a segunda linha deve ser um número inteiro que correspondente a quantidade de moedas
 ' de Y100; a terceira linha deve ser um número inteiro que correspondente a quantidade de moedas
 ' de Y50; a quarta linha deve ser um número inteiro que correspondente a quantidade de moedas de
- 'Y10; a quinta linha deve ser um número inteiro que correspondente a quantidade de moedas de Y5
- 'e; a sexta linha deve ser um número inteiro que correspondente a quantidade de moedas de Y1.
-' Observe os casos de exemplos para melhor entendimento da saída.'
+ "Y10; a quinta linha deve ser um número inteiro que correspondente a quantidade de moedas de Y5
+ //e; a sexta linha deve ser um número inteiro que correspondente a quantidade de moedas de Y1.
+Observe os casos de exemplos para melhor entendimento da saída."*/
 
   
 #include <stdio.h>
